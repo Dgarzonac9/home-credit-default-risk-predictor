@@ -1,3 +1,5 @@
 data.env 
 data/ 
 .env 
+resultados_integrado/ 
+run_integrado.log 
